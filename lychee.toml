@@ -11,10 +11,10 @@ user_agent = "Mozilla/5.0 (compatible; lychee link checker)"
 
 # Treat these HTTP statuses as success. 429 = rate-limited (the link exists);
 # the redirects cover archives that bounce to a login/landing page.
-accept = ["200..=204", "206", "301", "302", "307", "308", "429"]
+accept = [200, 201, 202, 203, 204, 206, 301, 302, 307, 308, 429]
 
-# Don't fail CI on e-mail links.
-exclude_mail = true
+# Don't check e-mail links.
+include_mail = false
 
 # Hosts that are valid in a browser but block or throttle automated checkers.
 # Add sparingly, with a reason — an exclude hides genuine rot too.
@@ -25,4 +25,7 @@ exclude = [
   '^http://soleil\.i4ds\.ch',
   # JS-rendered SPA; the crawler can't see the real content.
   '^https://www\.herta-experiment\.org',
+  # Cloudflare bot challenge — returns 403/503 to non-browsers but valid live.
+  '^https://eventhorizontelescope\.org',
+  '^https://www\.chime-frb\.ca',
 ]
