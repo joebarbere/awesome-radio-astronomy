@@ -102,6 +102,7 @@ Survey **products** are mostly reached through the archives above; this is the f
 - [frbpoppy](https://github.com/TRASAL/frbpoppy) — FRB population synthesis (also vendors the CHIME Cat-1 CSV).
 - [Heimdall](https://sourceforge.net/projects/heimdall-astro/) — GPU single-pulse / FRB de-dispersion search.
 - [FETCH](https://github.com/devanshkv/fetch) — deep-learning FRB candidate classification.
+- [TransientX](https://github.com/ypmen/TransientX) — high-performance single-pulse / transient search pipeline with DBSCAN candidate clustering.
 - [fitburst](https://github.com/CHIMEFRB/fitburst) — CHIME/FRB toolkit for forward-modelling FRB dynamic spectra (width, scattering, drift).
 
 ### Interferometry, imaging & formats
