@@ -110,7 +110,7 @@ Survey **products** are mostly reached through the archives above; this is the f
 
 ### Interferometry, imaging & formats
 
-- [CASA](https://casa.nrao.edu/) — calibration and imaging of Measurement Sets.
+- [CASA](https://casa.nrao.edu/) — calibration and imaging of Measurement Sets ([CASA docs & tutorials](https://casadocs.readthedocs.io/)).
 - [WSClean](https://gitlab.com/aroffringa/wsclean) — fast wide-field interferometric imager.
 - [PyBDSF](https://github.com/lofar-astron/PyBDSF) — radio source finding.
 - [Aegean](https://github.com/PaulHancock/Aegean) — compact-source finder.
