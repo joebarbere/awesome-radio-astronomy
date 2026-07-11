@@ -85,6 +85,7 @@ Survey **products** are mostly reached through the archives above; this is the f
 - [your](https://github.com/thepetabyteproject/your) — unified PSRFITS/filterbank I/O.
 - [TEMPO2](https://bitbucket.org/psrsoft/tempo2) — the standard pulsar-timing package.
 - [enterprise](https://github.com/nanograv/enterprise) — Bayesian pulsar-timing-array analysis.
+- [sigpyproc3](https://github.com/FRBs/sigpyproc3) — modern Python 3 library for reading and processing SIGPROC filterbank and time-series data.
 
 ### SETI
 
