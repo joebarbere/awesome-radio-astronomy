@@ -31,4 +31,6 @@ exclude = [
   # Block CI-runner IPs / reject lychee's request but resolve fine in a browser.
   '^https://sourceforge\.net',
   '^https://www\.mwatelescope\.org',
+  # NRAO public site — WAF intermittently 403s CI runners (200 in a browser).
+  '^https://public\.nrao\.edu',
 ]
