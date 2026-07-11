@@ -42,6 +42,7 @@ Public, bulk-accessible archives — most of these are queryable from Python.
 - [MASER / Paris Observatory](https://maser.obspm.fr/) — planetary & solar radio (Cassini RPWS, Juno Waves, Voyager PRA, Radio JOVE CDFs).
 - [Radio JOVE archive](https://radiojove.net/archive/) — amateur/citizen-science Jovian and decametric recordings.
 - [Gaia Archive](https://gea.esac.esa.int/archive/) — optical astrometry; cross-matched with ICRF3 for radio–optical position offsets.
+- [NANOGrav Data Releases](https://nanograv.org/science/data) — public pulsar-timing-array datasets (TOAs and `.par`/`.tim` timing models for tempo2/PINT) from the 5- to 15-year releases, hosted on Zenodo.
 - [ALMA Science Archive](https://almascience.org/aq/) — query interface plus VO TAP/SIA endpoints for all public ALMA mm/submm interferometric data, accessible anonymously from pyvo/astroquery.
 
 ## Surveys & instruments
