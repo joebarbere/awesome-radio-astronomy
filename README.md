@@ -117,6 +117,7 @@ Survey **products** are mostly reached through the archives above; this is the f
 - [AOFlagger](https://gitlab.com/aroffringa/aoflagger) — RFI flagging.
 - [SigMF](https://github.com/sigmf/SigMF) — portable SDR-recording metadata format.
 - [GNU Radio](https://www.gnuradio.org/) — SDR signal-processing flowgraphs.
+- [python-casacore](https://github.com/casacore/python-casacore) — Python bindings to casacore for reading/writing Measurement Sets, images, and tables outside CASA.
 
 ### Data engineering & reproducibility
 
