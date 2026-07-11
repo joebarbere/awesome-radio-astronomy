@@ -28,4 +28,7 @@ exclude = [
   # Cloudflare bot challenge — returns 403/503 to non-browsers but valid live.
   '^https://eventhorizontelescope\.org',
   '^https://www\.chime-frb\.ca',
+  # Block CI-runner IPs / reject lychee's request but resolve fine in a browser.
+  '^https://sourceforge\.net',
+  '^https://www\.mwatelescope\.org',
 ]
