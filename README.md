@@ -96,6 +96,7 @@ Survey **products** are mostly reached through the archives above; this is the f
 - [blimpy](https://github.com/UCBerkeleySETI/blimpy) — Breakthrough Listen filterbank/HDF5 I/O.
 - [turboSETI](https://github.com/UCBerkeleySETI/turbo_seti) — Doppler-drift narrowband search (Taylor tree).
 - [setigen](https://github.com/bbrzycki/setigen) — synthetic narrowband-signal injection.
+- [seticore](https://github.com/lacker/seticore) — high-performance C++/GPU implementation of core SETI dedoppler/beamforming algorithms, deployed at MeerKAT/VLA.
 
 ### FRBs & transients
 
