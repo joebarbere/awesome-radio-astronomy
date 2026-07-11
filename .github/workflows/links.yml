@@ -1,0 +1,38 @@
+name: Link check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    # Weekly, Mondays 06:00 UTC — catches links that rot after merge.
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links with lychee
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Config (retries, accepted codes, excludes) lives in lychee.toml
+          args: --no-progress --verbose "./**/*.md"
+          # Fail the job on broken links in push/PR runs.
+          fail: ${{ github.event_name != 'schedule' }}
+
+      # On the scheduled run, don't fail the build — open/refresh an issue instead.
+      - name: Open issue on scheduled failure
+        if: ${{ github.event_name == 'schedule' && steps.lychee.outputs.exit_code != 0 }}
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Link check found broken links
+          content-filepath: ./lychee/out.md
+          labels: broken-links, automated

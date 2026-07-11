@@ -25,6 +25,10 @@ Thanks for helping grow **Awesome Radio Astronomy**. A few guidelines keep the l
 
 ## Checks
 
-Run a quick link check before opening your PR (any link checker is fine, e.g. `lychee README.md`). CI may also verify links.
+Run a quick link check before opening your PR. CI verifies links automatically with [lychee](https://github.com/lycheeverse/lychee) (see `.github/workflows/links.yml`); reproduce it locally with the shared config:
+
+```sh
+lychee --config lychee.toml README.md
+```
 
 By contributing you agree to release your contribution under [CC0 1.0](LICENSE).
