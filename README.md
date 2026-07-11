@@ -143,11 +143,11 @@ Survey **products** are mostly reached through the archives above; this is the f
 
 The jansky course ships a [full catalogue of 40 facilities](https://github.com/joebarbere/jansky/blob/main/docs/telescopes.md) (with specs and a downloadable `telescopes.kml`). Selected highlights:
 
-**Large single dishes** — [FAST](https://fast.bao.ac.cn/) (500 m) · [GBT](https://greenbankobservatory.org/telescopes/gbt/) (100 m) · [Effelsberg](https://www.mpifr-bonn.mpg.de/en/effelsberg) (100 m) · [Parkes "Murriyang"](https://www.atnf.csiro.au/about/facilities/parkes.html) (64 m) · [Lovell / Jodrell Bank](https://www.jodrellbank.manchester.ac.uk/) (76 m).
+**Large single dishes** — [FAST](https://fast.bao.ac.cn/) (500 m) · [GBT](https://greenbankobservatory.org/telescopes/gbt/) (100 m) · [Effelsberg](https://www.mpifr-bonn.mpg.de/en/effelsberg) (100 m) · [Parkes "Murriyang"](https://www.csiro.au/en/about/facilities-collections/atnf/parkes-radio-telescope-murriyang) (64 m) · [Lovell / Jodrell Bank](https://www.jodrellbank.manchester.ac.uk/) (76 m).
 
 **Interferometers & arrays** — [Karl G. Jansky VLA](https://public.nrao.edu/telescopes/vla/) · [ALMA](https://www.almaobservatory.org/) · [ATCA](https://www.narrabri.atnf.csiro.au/) · [GMRT/uGMRT](http://www.gmrt.ncra.tifr.res.in/) · [CHIME](https://chime-experiment.ca/) · [MeerKAT](https://www.sarao.ac.za/science/meerkat/) · [ASKAP](https://www.csiro.au/en/about/facilities-collections/atnf/askap-radio-telescope) · [MWA](https://www.mwatelescope.org/) · [LOFAR](https://www.astron.nl/telescopes/lofar/) · [SKAO](https://www.skao.int/).
 
-**VLBI networks** — [VLBA](https://public.nrao.edu/telescopes/vlba/) · [EVN](https://www.evlbi.org/) · [Event Horizon Telescope](https://eventhorizontelescope.org/) · [Long Baseline Array](https://www.atnf.csiro.au/about/facilities/lba.html).
+**VLBI networks** — [VLBA](https://public.nrao.edu/telescopes/vlba/) · [EVN](https://www.evlbi.org/) · [Event Horizon Telescope](https://eventhorizontelescope.org/) · [Long Baseline Array](https://www.csiro.au/en/about/facilities-collections/atnf/long-baseline-array).
 
 ## Key papers & textbooks
 
