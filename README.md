@@ -15,6 +15,7 @@ Compiled from the [**jansky**](https://github.com/joebarbere/jansky) course (a h
   - [FRBs & transients](#frbs--transients)
   - [Interferometry, imaging & formats](#interferometry-imaging--formats)
   - [Data engineering & reproducibility](#data-engineering--reproducibility)
+  - [Solar, planetary & sky models](#solar-planetary--sky-models)
 - [Telescopes & observatories](#telescopes--observatories)
 - [Key papers & textbooks](#key-papers--textbooks)
 - [Learning resources](#learning-resources)
@@ -131,6 +132,12 @@ Survey **products** are mostly reached through the archives above; this is the f
 - [Podman](https://podman.io/) — daemonless, rootless container runtime.
 - [Tectonic](https://tectonic-typesetting.github.io/) — self-contained, reproducible LaTeX engine for paper builds.
 - [ASCL — Astrophysics Source Code Library](https://ascl.net/) — the field's software index.
+
+### Solar, planetary & sky models
+
+- [SunPy](https://github.com/sunpy/sunpy) — the core Python package for solar physics data (maps, timeseries, coordinate frames, search).
+- [radiospectra](https://github.com/sunpy/radiospectra) — SunPy-affiliated reader/analyser for solar radio dynamic spectra (e.g. e-Callisto).
+- [pyGDSM](https://github.com/telegraphic/pygdsm) — Python interface to Global Diffuse Sky Models of the radio sky (10 MHz–5 THz) for foreground/sky-temperature prediction.
 
 ## Telescopes & observatories
 
