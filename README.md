@@ -163,6 +163,12 @@ The course maintains two link-verified bibliographies — pull the full lists fr
 - Wilson, Rohlfs & Hüttemeister, *Tools of Radio Astronomy*.
 - Pacholczyk, *Radio Astrophysics* — synchrotron and minimum-energy arguments.
 
+**Open review articles** (freely readable)
+
+- [Petroff, Hessels & Lorimer, *Fast Radio Bursts* (A&A Rev. 2019)](https://arxiv.org/abs/1904.07947) — the standard review of FRB observations, propagation, and progenitor models.
+- [Furlanetto, Oh & Briggs, *Cosmology at Low Frequencies* (Phys. Rep. 2006)](https://arxiv.org/abs/astro-ph/0608032) — the foundational review of 21 cm cosmology.
+- [Taylor, *The Nanohertz Gravitational-Wave Astronomer* (2021)](https://arxiv.org/abs/2105.13270) — pedagogical derivation of the pulsar-timing-array gravitational-wave response and Bayesian PTA analysis.
+
 ## Learning resources
 
 - [**jansky**](https://joebarbere.github.io/jansky/) — a hands-on radio-astronomy course in Python: runnable Jupyter chapters (prose + physics + code + plots), a tested helper package, and an MkDocs site. Arc: emission physics → signals/noise/the radiometer equation → antennas/receivers/SDR → the hydrogen line → interferometry & aperture synthesis → CLEAN → pulsars → FRBs → VLBI/EHT → pulsar-timing arrays → SETI → CMB → solar & planetary radio → polarisation & Faraday rotation → RFI mitigation → source counts & radio galaxies.
