@@ -42,6 +42,7 @@ Public, bulk-accessible archives — most of these are queryable from Python.
 - [MASER / Paris Observatory](https://maser.obspm.fr/) — planetary & solar radio (Cassini RPWS, Juno Waves, Voyager PRA, Radio JOVE CDFs).
 - [Radio JOVE archive](https://radiojove.net/archive/) — amateur/citizen-science Jovian and decametric recordings.
 - [Gaia Archive](https://gea.esac.esa.int/archive/) — optical astrometry; cross-matched with ICRF3 for radio–optical position offsets.
+- [LWA Data Archive](https://lda10g.alliance.unm.edu/) — public archive of the Long Wavelength Array (10–88 MHz): pulsar data, PASI/Orville all-sky images, and the LWA1 Low Frequency Sky Survey maps.
 - [Pulsar Survey Scraper](https://pulsar.cgca-hub.org/) — aggregates recent pulsar discoveries from 35+ surveys ahead of psrcat, searchable by position/DM via web UI and JSON API.
 - [FRBSTATS](https://www.herta-experiment.org/frbstats/) — open, continuously updated FRB catalogue with DM-inferred redshifts, a public REST API, and CSV/JSON export.
 - [RMTable — consolidated Faraday RM catalogue](https://github.com/CIRADA-Tools/RMTable) — CIRADA's standardised, machine-readable catalogue of ~59,500 published rotation measures (FITS/TSV/VOTable) with a Python reader.
