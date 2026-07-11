@@ -178,6 +178,7 @@ The course maintains two link-verified bibliographies — pull the full lists fr
 - [SARA — Society of Amateur Radio Astronomers](https://radio-astronomy.org/) — journal, [getting-started guide](https://radio-astronomy.org/getting-started), and article index.
 - [jansky glossary](https://github.com/joebarbere/jansky/blob/main/docs/glossary.md) — ~160 key terms, from *aperture synthesis* and *brightness temperature* to *rotation measure* and *the Macquart relation*.
 - [jansky data-formats reference](https://github.com/joebarbere/jansky/blob/main/docs/data-formats.md) — GUPPI raw, SIGPROC filterbank, PSRFITS, Measurement Set, UVFITS/UVH5, SigMF — what each holds and what reads it.
+- [MIT Haystack Small Radio Telescope (SRT)](https://www.haystack.mit.edu/haystack-public-outreach/srt-the-small-radio-telescope-for-education/) — open plans, parts lists, and Python control software to build an educational single-dish telescope and observe the 21 cm line.
 - [NRAO Synthesis Imaging Workshop](https://www.aoc.nrao.edu/events/synthesis/2022/program.html) — slide decks and recordings on aperture synthesis, calibration, imaging/deconvolution, polarisation, and VLBI, worked on real data.
 
 ## Contributing
