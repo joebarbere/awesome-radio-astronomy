@@ -117,6 +117,7 @@ Survey **products** are mostly reached through the archives above; this is the f
 - [AOFlagger](https://gitlab.com/aroffringa/aoflagger) — RFI flagging.
 - [SigMF](https://github.com/sigmf/SigMF) — portable SDR-recording metadata format.
 - [GNU Radio](https://www.gnuradio.org/) — SDR signal-processing flowgraphs.
+- [ducc](https://github.com/mreineck/ducc) — efficient numerical kernels including the non-uniform FFT gridder (“nifty-gridder”) used by WSClean.
 - [eht-imaging](https://github.com/achael/eht-imaging) — regularised-maximum-likelihood VLBI imaging and analysis library used by the Event Horizon Telescope.
 - [CARTA](https://cartavis.org/) — browser-based viewer/analyser for large radio image cubes (ALMA/VLA/SKA-pathfinder scale).
 - [DP3](https://github.com/lofar-astron/DP3) — streaming preprocessing/calibration pipeline for interferometric data (averaging, flagging, gain calibration); core LOFAR tool.
