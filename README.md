@@ -162,6 +162,7 @@ The course maintains two link-verified bibliographies — pull the full lists fr
 - [Thompson, Moran & Swenson, *Interferometry and Synthesis in Radio Astronomy*](https://link.springer.com/book/10.1007/978-3-319-44431-4) — the interferometry standard (open access).
 - Wilson, Rohlfs & Hüttemeister, *Tools of Radio Astronomy*.
 - Pacholczyk, *Radio Astrophysics* — synchrotron and minimum-energy arguments.
+- [*Advancing Astrophysics with the Square Kilometre Array* (AASKA14)](https://pos.sissa.it/215/) — open-access SKA science book; ~130 community chapters across HI, pulsars/PTAs, transients, cosmic magnetism, and reionisation.
 
 **Open review articles** (freely readable)
 
