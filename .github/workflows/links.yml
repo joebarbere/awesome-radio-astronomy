@@ -28,11 +28,21 @@ jobs:
           # Fail the job on broken links in push/PR runs.
           fail: ${{ github.event_name != 'schedule' }}
 
-      # On the scheduled run, don't fail the build — open/refresh an issue instead.
-      - name: Open issue on scheduled failure
+      # On the scheduled run, don't fail the build — report via a GitHub issue
+      # using the built-in `gh` CLI (no third-party action). Reuse the existing
+      # open issue if there is one so weekly runs don't pile up duplicates.
+      - name: Report broken links on scheduled failure
         if: ${{ github.event_name == 'schedule' && steps.lychee.outputs.exit_code != 0 }}
-        uses: peter-evans/create-issue-from-file@v5
-        with:
-          title: Link check found broken links
-          content-filepath: ./lychee/out.md
-          labels: broken-links, automated
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create broken-links --color d73a4a \
+            --description "Automated link-check failures" --force
+          existing=$(gh issue list --label broken-links --state open \
+            --json number --jq '.[0].number // empty')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body-file ./lychee/out.md
+          else
+            gh issue create --title "Link check found broken links" \
+              --label broken-links --body-file ./lychee/out.md
+          fi
