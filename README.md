@@ -183,6 +183,7 @@ The course maintains two link-verified bibliographies — pull the full lists fr
 - [NASA Radio JOVE](https://radiojove.gsfc.nasa.gov/) — NASA citizen-science project: SDR-based radio-telescope kits, classroom activities, training modules, and a public data archive for Jupiter, the Sun, and the galaxy.
 - [MIT Haystack Small Radio Telescope (SRT)](https://www.haystack.mit.edu/haystack-public-outreach/srt-the-small-radio-telescope-for-education/) — open plans, parts lists, and Python control software to build an educational single-dish telescope and observe the 21 cm line.
 - [NRAO Synthesis Imaging Workshop](https://www.aoc.nrao.edu/events/synthesis/2022/program.html) — slide decks and recordings on aperture synthesis, calibration, imaging/deconvolution, polarisation, and VLBI, worked on real data.
+- [Decoding Voyager 1 (D. Estévez)](https://destevez.net/2021/09/decoding-voyager-1/) — a step-by-step decode of Voyager 1's telemetry from a public Breakthrough Listen GBT recording with GNU Radio and Python, written for a general audience; a hands-on companion to the Breakthrough Listen Voyager data.
 
 ## Contributing
 
