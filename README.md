@@ -59,7 +59,7 @@ Survey **products** are mostly reached through the archives above; this is the f
 
 - **NVSS** — NRAO VLA Sky Survey, 1.4 GHz, ~1.8M sources north of Dec −40° (Condon et al. 1998).
 - **FIRST** — VLA 1.4 GHz, deep high-resolution imaging (Becker, White & Helfand 1995).
-- **VLASS** — VLA Sky Survey, 2–4 GHz, 2.5″, three epochs 2017–2024; Quick-Look + Single-Epoch.
+- **VLASS** — VLA Sky Survey, 2–4 GHz, 2.5″, three epochs 2017–2024 plus a fourth and final epoch (VLASS4.1) begun in 2025; Quick-Look + Single-Epoch.
 - **TGSS ADR1** — GMRT 150 MHz all-sky low-frequency survey (Intema et al. 2017).
 - **GLEAM / GLEAM-X** — MWA 72–231 MHz; GLEAM-X DR2 gives 20 in-band sub-bands (Hurley-Walker; Ross et al. 2024).
 - **RACS** — Rapid ASKAP Continuum Survey, three bands (887.5 / 1367.5 / 1655.5 MHz), incl. Stokes V.
