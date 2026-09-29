@@ -34,6 +34,7 @@ Public, bulk-accessible archives — most of these are queryable from Python.
 - [e-Callisto](http://www.e-callisto.org/) — global network of ground-based solar radio spectrometers (~20–900 MHz, 15-minute FITS), 150+ stations, 20+ years ([data tree](http://soleil.i4ds.ch/solarradio/data/2002-20yy_Callisto/)).
 - [Breakthrough Listen Open Data](http://seti.berkeley.edu/opendata) — professional-grade GBT/Parkes/MeerKAT bulk SETI data; includes the canonical [Voyager 1 fine-resolution recording](http://blpd0.ssl.berkeley.edu/Voyager_data/).
 - [LOFAR LoTSS / LTA](https://lofar-surveys.org/) — LoTSS DR2/DR3 catalogues (DR3 ≈ 13.7M sources over 88% of the northern sky) and the LOFAR Long-Term Archive.
+- [Apertif Time-Domain DR2 (ASTRON)](https://science.astron.nl/sdc/astron-data-explorer/data-releases/apertif-time-domain-dr2/) — raw 1-bit Stokes-I PSRFITS from the Apertif Radio Transient System FRB/pulsar survey (WSRT); FRB pointings downloadable directly, metadata for all observations via the ASTRON VO, and the remaining data staged from tape on request via the SDC helpdesk.
 - [NRAO Science Data Archive](https://data.nrao.edu/) — VLA / VLBA / GBT archival visibilities and images.
 - [HEASARC](https://heasarc.gsfc.nasa.gov/) — NASA's high-energy archive, for multiwavelength X-ray context.
 - [NASA LAMBDA](https://lambda.gsfc.nasa.gov/) — CMB and foreground data; hosts the HI4PI all-sky N_HI HEALPix map.
