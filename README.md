@@ -145,7 +145,7 @@ The jansky course ships a [full catalogue of 40 facilities](https://github.com/j
 
 **Large single dishes** — [FAST](https://fast.bao.ac.cn/) (500 m) · [GBT](https://greenbankobservatory.org/telescopes/gbt/) (100 m) · [Effelsberg](https://www.mpifr-bonn.mpg.de/en/effelsberg) (100 m) · [Parkes "Murriyang"](https://www.csiro.au/en/about/facilities-collections/atnf/parkes-radio-telescope-murriyang) (64 m) · [Lovell / Jodrell Bank](https://www.jodrellbank.manchester.ac.uk/) (76 m).
 
-**Interferometers & arrays** — [Karl G. Jansky VLA](https://public.nrao.edu/telescopes/vla/) · [ALMA](https://www.almaobservatory.org/) · [ATCA](https://www.narrabri.atnf.csiro.au/) · [GMRT/uGMRT](http://www.gmrt.ncra.tifr.res.in/) · [CHIME](https://chime-experiment.ca/) · [MeerKAT](https://www.sarao.ac.za/science/meerkat/) · [ASKAP](https://www.csiro.au/en/about/facilities-collections/atnf/askap-radio-telescope) · [MWA](https://www.mwatelescope.org/) · [LOFAR](https://www.astron.nl/telescopes/lofar/) · [SKAO](https://www.skao.int/).
+**Interferometers & arrays** — [Karl G. Jansky VLA](https://public.nrao.edu/telescopes/vla/) · [ALMA](https://www.almaobservatory.org/) · [ATCA](https://www.narrabri.atnf.csiro.au/) · [GMRT/uGMRT](https://www.gmrt.ncra.tifr.res.in/) · [CHIME](https://chime-experiment.ca/) · [MeerKAT](https://www.sarao.ac.za/science/meerkat/) · [ASKAP](https://www.csiro.au/en/about/facilities-collections/atnf/askap-radio-telescope) · [MWA](https://www.mwatelescope.org/) · [LOFAR](https://www.astron.nl/telescopes/lofar/) · [SKAO](https://www.skao.int/).
 
 **VLBI networks** — [VLBA](https://public.nrao.edu/telescopes/vlba/) · [EVN](https://www.evlbi.org/) · [Event Horizon Telescope](https://eventhorizontelescope.org/) · [Long Baseline Array](https://www.csiro.au/en/about/facilities-collections/atnf/long-baseline-array).
 
@@ -153,7 +153,7 @@ The jansky course ships a [full catalogue of 40 facilities](https://github.com/j
 
 The course maintains two link-verified bibliographies — pull the full lists from them:
 
-- [`docs/references.md`](https://github.com/joebarbere/jansky/blob/main/docs/references.md) — seminal papers grouped by theme, each with an ADS/DOI link. Founding works: [Jansky 1933](https://ui.adsabs.harvard.edu/abs/1933PIRE...21.1387J), [Reber 1944](https://doi.org/10.1086/144668), [Ewen & Purcell 1951 (HI line)](https://doi.org/10.1038/168356a0), [Hewish et al. 1968 (pulsars)](https://doi.org/10.1038/217709a0), [Högbom 1974 (CLEAN)](https://ui.adsabs.harvard.edu/abs/1974A%26AS...15..417H), [Condon et al. 1998 (NVSS)](https://doi.org/10.1086/300337).
+- [`docs/references.md`](https://github.com/joebarbere/jansky/blob/main/docs/references.md) — seminal papers grouped by theme, each with an ADS/DOI link. Founding works: [Jansky 1933](https://ui.adsabs.harvard.edu/abs/1933PIRE...21.1387J), [Reber 1944](https://ui.adsabs.harvard.edu/abs/1944ApJ...100..279R), [Ewen & Purcell 1951 (HI line)](https://doi.org/10.1038/168356a0), [Hewish et al. 1968 (pulsars)](https://doi.org/10.1038/217709a0), [Högbom 1974 (CLEAN)](https://ui.adsabs.harvard.edu/abs/1974A%26AS...15..417H), [Condon et al. 1998 (NVSS)](https://doi.org/10.1086/300337).
 - [`docs/papers-timeline.md`](https://github.com/joebarbere/jansky/blob/main/docs/papers-timeline.md) — a year-by-year chronology of the field (1932 → today).
 
 **Standing textbooks**
