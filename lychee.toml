@@ -33,4 +33,7 @@ exclude = [
   '^https://www\.mwatelescope\.org',
   # NRAO public site — WAF intermittently 403s CI runners (200 in a browser).
   '^https://public\.nrao\.edu',
+  # NASA ADS UI — answers automated clients (HEAD and GET) with 405; fine in a browser.
+  # doi.org links that resolve to ADS fail the same way, so ADS papers link ADS directly.
+  '^https://ui\.adsabs\.harvard\.edu',
 ]
