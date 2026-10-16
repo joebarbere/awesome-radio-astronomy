@@ -48,7 +48,6 @@ Public, bulk-accessible archives — most of these are queryable from Python.
 - [MWA ASVO](https://asvo.mwatelescope.org/) — MWA node of the All-Sky Virtual Observatory to browse the full MWA observation history and download public visibility data (incl. GLEAM); free account required for downloads.
 - [LWA Data Archive](https://lda10g.alliance.unm.edu/) — public archive of the Long Wavelength Array (10–88 MHz): pulsar data, PASI/Orville all-sky images, and the LWA1 Low Frequency Sky Survey maps.
 - [Pulsar Survey Scraper](https://pulsar.cgca-hub.org/) — aggregates recent pulsar discoveries from 35+ surveys ahead of psrcat, searchable by position/DM via web UI and JSON API.
-- [FRBSTATS](https://www.herta-experiment.org/frbstats/) — open, continuously updated FRB catalogue with DM-inferred redshifts, a public REST API, and CSV/JSON export.
 - [RMTable — consolidated Faraday RM catalogue](https://github.com/CIRADA-Tools/RMTable) — CIRADA's standardised, machine-readable catalogue of ~59,500 published rotation measures (FITS/TSV/VOTable) with a Python reader.
 - [NANOGrav Data Releases](https://nanograv.org/science/data) — public pulsar-timing-array datasets (TOAs and `.par`/`.tim` timing models for tempo2/PINT) from the 5- to 15-year releases, hosted on Zenodo.
 - [ALMA Science Archive](https://almascience.org/aq/) — query interface plus VO TAP/SIA endpoints for all public ALMA mm/submm interferometric data, accessible anonymously from pyvo/astroquery.
